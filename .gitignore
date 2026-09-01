@@ -1,0 +1,35 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env.local.toml
+
+__pycache__
+.pytest_cache
+
+uv.lock
+
+.DS_Store
+
+scratch/
+models/*.gguf
+models/bge-m3/*
+site/
+.cache/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+*.tfvars
+*.tfplan
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
