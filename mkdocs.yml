@@ -1,8 +1,8 @@
 site_name: Origami AI Router
 site_description: Enterprise-grade LLM routing and inference service designed for scalability, observability, and sub-second latency.
 site_author: Ryan McGuinness
-repo_url: https://github.com/rrmcguinness/origami-ai-router
-repo_name: rrmcguinness/origami-ai-router
+repo_url: https://github.com/retail-cortex/origami
+repo_name: retail-cortex/origami
 
 theme:
   name: material
